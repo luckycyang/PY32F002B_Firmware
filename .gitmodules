@@ -1,0 +1,6 @@
+[submodule "lib/RTT"]
+	path = lib/RTT
+	url = https://github.com/SEGGERMicro/RTT
+[submodule "lib/FreeRTOS"]
+	path = lib/FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS
